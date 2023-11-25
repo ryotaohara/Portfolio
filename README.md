@@ -9,6 +9,8 @@ BM25_Wordclouds.ipynb
 - [BM25][https://en.wikipedia.org/wiki/Okapi_BM25] is a ranking function used by search engines to estimate the relevance of documents to a given search query.
 - Words with high BM25 values are visualised with word clouds.
 
+[BM25](https://en.wikipedia.org/wiki/Okapi_BM25)
+
 DemandForecasting.ipynb
 - Demand forecasting models are created and compared. Models considered are:
   - Gradient Boosting Regression
