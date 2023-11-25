@@ -1,17 +1,15 @@
-Certificates
-- 
+**Certificates**
+- List of certificates obtained
 
-Inaugural
+**Inaugural**
 - Dataset used for BM_Wordclouds.ipynb
 
-BM25_Wordclouds.ipynb
+**BM25_Wordclouds.ipynb**
 - Using the inauguration speeches by the US presidents, BM25 is calculated from scratch.
 - [BM25](https://en.wikipedia.org/wiki/Okapi_BM25) is a ranking function used by search engines to estimate the relevance of documents to a given search query.
 - Words with high BM25 values are visualised with word clouds.
 
-
-
-DemandForecasting.ipynb
+**DemandForecasting.ipynb**
 - Demand forecasting models are created and compared. Models considered are:
   - Gradient Boosting Regression
   - LightGBM
@@ -26,5 +24,5 @@ DemandForecasting.ipynb
 - Walk forward validation is used for cross-validation.
 - Hyperparameter tuning is conducted as well for each model.
 
-mock_kaggle.csv
+**mock_kaggle.csv**
 - Dataset used for DemandForecasting.ipynb
