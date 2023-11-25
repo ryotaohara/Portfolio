@@ -1,6 +1,7 @@
 # portfolio
 
-学習に使用したマテリアル
+- inaugural
+- - Text files used for BM25_Wordclouds.ipynb
 - Hands-on Programming with R
 - R for Data Science
 - The Book of R
