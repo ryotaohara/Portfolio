@@ -26,5 +26,8 @@
 - Walk forward validation is used for cross-validation.
 - Hyperparameter tuning is conducted as well for each model.
 
+**DemandForecasting.png**
+- Overview of an end-to-end architecture built from scratch for demand forecasting.
+
 **mock_kaggle.csv**
 - Dataset used for DemandForecasting.ipynb
