@@ -9,8 +9,8 @@ BM25_Wordclouds.ipynb
 
 DemandForecasting.ipynb
 - Demand forecasting models are created and compared. Models considered are:
--   Gradient Boosting Regression
--   LightGBM
+- - Gradient Boosting Regression
+- - LightGBM
 -   XGBoost
 -   Support Vector Regressor
 -   Ridge Regression
