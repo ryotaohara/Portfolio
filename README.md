@@ -1,7 +1,7 @@
 Certificates
 - 
 
-inaugural
+**Inaugural**
 - Dataset used for BM_Wordclouds.ipynb
 
 BM25_Wordclouds.ipynb
