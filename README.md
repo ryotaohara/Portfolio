@@ -5,6 +5,7 @@
 
 **Inaugural**
 - Dataset used for BM_Wordclouds.ipynb
+- Data available [here](https://www.presidency.ucsb.edu/documents/presidential-documents-archive-guidebook/inaugural-addresses).
 
 **BM25_Wordclouds.ipynb**
 - Using the inauguration speeches by the US presidents, BM25 is calculated from scratch.
