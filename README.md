@@ -32,3 +32,4 @@
 
 **mock_kaggle.csv**
 - Dataset used for DemandForecasting.ipynb
+- Dataset available [here](https://www.kaggle.com/code/muhamdsalem/retail-salestime-series-analysis/input).
