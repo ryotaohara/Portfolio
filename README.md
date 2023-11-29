@@ -5,7 +5,7 @@
 
 **Inaugural**
 - Dataset used for BM_Wordclouds.ipynb
-- Data available [here](https://www.presidency.ucsb.edu/documents/presidential-documents-archive-guidebook/inaugural-addresses).
+- Dataset available [here](https://www.presidency.ucsb.edu/documents/presidential-documents-archive-guidebook/inaugural-addresses).
 
 **BM25_Wordclouds.ipynb**
 - Using the inauguration speeches by the US presidents, BM25 is calculated from scratch.
@@ -30,7 +30,7 @@
 **DemandForecasting.png**
 - Overview of an end-to-end architecture built from scratch for demand forecasting.
 - Below describes each system's role:
-  - S3 as the data lake
+  - Amazon S3 as the data lake
   - Snowflake as the data warehouse/mart
   - AWS Lambda as the data pipeline between the data lake and the data warehouse
   - Tableau as the visualisation tool for the forecasting results
