@@ -29,7 +29,7 @@
 
 **DemandForecasting.png**
 - Overview of an end-to-end architecture built from scratch for demand forecasting.
-- Below describes each system's role:
+- Below describes the role of each system:
   - Amazon S3 as the data lake
   - Snowflake as the data warehouse/mart
   - AWS Lambda as the data pipeline between the data lake and the data warehouse
